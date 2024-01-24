@@ -2,7 +2,7 @@
 #include<conio.h>
 
 
-
+//This is my first github program
 struct student{
 	char name[100];
 	int age;
